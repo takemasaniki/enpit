@@ -2,7 +2,7 @@
 
 - git
 - github
-- docker 
+- docker
 
 |a|b|
 |:-|:-|
